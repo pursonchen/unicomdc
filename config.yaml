@@ -1,0 +1,7 @@
+name: unicomdc
+version: 1
+
+cron:
+- description: cron  
+  url: cAndsXls.php
+  schedule: "3 9 * * *"
